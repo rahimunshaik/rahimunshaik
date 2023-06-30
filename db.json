@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": 12,
+      "id": 1,
       "title": "Sony PlayStation 5",
       "description": "Experience lightning-fast loading, deeper immersion, and an all-new generation of gaming with PlayStation 5.",
       "price": 499,
@@ -18,23 +18,9 @@
         "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
       ]
     },
+  
     {
-      "id": 13,
-      "title": "Canon EOS 80D",
-      "description": "Capture stunning photos and videos with the Canon EOS 80D DSLR camera.",
-      "price": 999,
-      "discountPercentage": 12.5,
-      "rating": 4.67,
-      "stock": 14,
-      "brand": "Canon",
-      "category": "cameras",
-      "thumbnail": "https://dummyjson.com/image/i/products/13/thumbnail.jpg",
-      "images": [
-        "https://www.flipkart.com/canon-eos-80d-dslr-camera-body-18-135-mm-lens/p/itm32a5545bf29fe"
-      ]
-    },
-    {
-      "id": 14,
+      "id": 2,
       "title": "Fitbit Versa 2",
       "description": "Track your workouts, heart rate, sleep patterns, and more with the Fitbit Versa 2 smartwatch.",
       "price": 199,
@@ -52,7 +38,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 3,
       "title": "Samsung 65-Inch 4K Smart TV",
       "description": "Enjoy stunning visuals and smart features with the Samsung 65-Inch 4K Smart TV.",
       "price": 1299,
@@ -70,7 +56,7 @@
       ]
     },
     {
-      "id": 16,
+      "id": 4,
       "title": "Bose QuietComfort 35 II",
       "description": "Immerse yourself in your music with the Bose QuietComfort 35 II wireless headphones.",
       "price": 349,
@@ -88,7 +74,7 @@
       ]
     },
      {
-      "id": 16,
+      "id": 5,
       "title": "Sony WH-1000XM4 Wireless Headphones",
       "description": "Experience exceptional sound quality with the Sony WH-1000XM4 Wireless Headphones.",
       "price": 349,
@@ -106,7 +92,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 6,
       "title": "DJI Mavic Air 2 Drone",
       "description": "Capture stunning aerial footage with the DJI Mavic Air 2 Drone.",
       "price": 799,
@@ -124,7 +110,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 7,
       "title": "Fitbit Charge 4 Fitness Tracker",
       "description": "Track your daily activities and monitor your fitness goals with the Fitbit Charge 4 Fitness Tracker.",
       "price": 149,
@@ -142,7 +128,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 8,
       "title": "Samsung 55-Inch QLED 4K Smart TV",
       "description": "Enjoy a cinematic viewing experience with the Samsung 55-Inch QLED 4K Smart TV.",
       "price": 1299,
@@ -160,7 +146,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 9,
       "title": "Canon EOS 80D DSLR Camera",
       "description": "Capture stunning photos and videos with the Canon EOS 80D DSLR Camera.",
       "price": 999,
