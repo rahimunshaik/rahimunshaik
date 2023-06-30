@@ -30,7 +30,8 @@
       "category": "cameras",
       "thumbnail": "https://dummyjson.com/image/i/products/13/thumbnail.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/13/1.jpg"
+        "https://dummyjson.com/image/i/products/13/1.jpg",
+        "https://www.flipkart.com/canon-eos-80d-dslr-camera-body-18-135-mm-lens/p/itm32a5545bf29fe"
       ]
     },
     {
@@ -85,6 +86,96 @@
         "https://dummyjson.com/image/i/products/16/2.jpg",
         "https://dummyjson.com/image/i/products/16/3.jpg",
         "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
+      ]
+    },
+     {
+      "id": 16,
+      "title": "Sony WH-1000XM4 Wireless Headphones",
+      "description": "Experience exceptional sound quality with the Sony WH-1000XM4 Wireless Headphones.",
+      "price": 349,
+      "discountPercentage": 10,
+      "rating": 4.8,
+      "stock": 20,
+      "brand": "Sony",
+      "category": "headphones",
+      "thumbnail": "https://dummyjson.com/image/i/products/16/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/16/1.jpg",
+        "https://dummyjson.com/image/i/products/16/2.jpg",
+        "https://dummyjson.com/image/i/products/16/3.jpg",
+        "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "DJI Mavic Air 2 Drone",
+      "description": "Capture stunning aerial footage with the DJI Mavic Air 2 Drone.",
+      "price": 799,
+      "discountPercentage": 0,
+      "rating": 4.7,
+      "stock": 10,
+      "brand": "DJI",
+      "category": "drones",
+      "thumbnail": "https://dummyjson.com/image/i/products/17/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/17/1.jpg",
+        "https://dummyjson.com/image/i/products/17/2.jpg",
+        "https://dummyjson.com/image/i/products/17/3.jpg",
+        "https://dummyjson.com/image/i/products/17/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Fitbit Charge 4 Fitness Tracker",
+      "description": "Track your daily activities and monitor your fitness goals with the Fitbit Charge 4 Fitness Tracker.",
+      "price": 149,
+      "discountPercentage": 5,
+      "rating": 4.5,
+      "stock": 50,
+      "brand": "Fitbit",
+      "category": "wearables",
+      "thumbnail": "https://dummyjson.com/image/i/products/18/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/18/1.jpg",
+        "https://dummyjson.com/image/i/products/18/2.jpg",
+        "https://dummyjson.com/image/i/products/18/3.jpg",
+        "https://dummyjson.com/image/i/products/18/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Samsung 55-Inch QLED 4K Smart TV",
+      "description": "Enjoy a cinematic viewing experience with the Samsung 55-Inch QLED 4K Smart TV.",
+      "price": 1299,
+      "discountPercentage": 12,
+      "rating": 4.6,
+      "stock": 15,
+      "brand": "Samsung",
+      "category": "televisions",
+      "thumbnail": "https://dummyjson.com/image/i/products/19/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/19/1.jpg",
+        "https://dummyjson.com/image/i/products/19/2.jpg",
+        "https://dummyjson.com/image/i/products/19/3.jpg",
+        "https://dummyjson.com/image/i/products/19/thumbnail.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Canon EOS 80D DSLR Camera",
+      "description": "Capture stunning photos and videos with the Canon EOS 80D DSLR Camera.",
+      "price": 999,
+      "discountPercentage": 8,
+      "rating": 4.9,
+      "stock": 30,
+      "brand": "Canon",
+      "category": "cameras",
+      "thumbnail": "https://dummyjson.com/image/i/products/20/thumbnail.jpg",
+      "images": [
+        "https://dummyjson.com/image/i/products/20/1.jpg",
+        "https://dummyjson.com/image/i/products/20/2.jpg",
+        "https://dummyjson.com/image/i/products/20/3.jpg",
+        "https://dummyjson.com/image/i/products/20/thumbnail.jpg"
       ]
     }
   ]
