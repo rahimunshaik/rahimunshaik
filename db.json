@@ -18,7 +18,6 @@
         "https://dummyjson.com/image/i/products/12/thumbnail.jpg"
       ]
     },
-  
     {
       "id": 2,
       "title": "Fitbit Versa 2",
@@ -73,7 +72,7 @@
         "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
       ]
     },
-     {
+    {
       "id": 5,
       "title": "Sony WH-1000XM4 Wireless Headphones",
       "description": "Experience exceptional sound quality with the Sony WH-1000XM4 Wireless Headphones.",
@@ -83,12 +82,12 @@
       "stock": 20,
       "brand": "Sony",
       "category": "headphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/16/thumbnail.jpg",
+      "thumbnail": "https://dummyjson.com/image/i/products/21/thumbnail.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/16/1.jpg",
-        "https://dummyjson.com/image/i/products/16/2.jpg",
-        "https://dummyjson.com/image/i/products/16/3.jpg",
-        "https://dummyjson.com/image/i/products/16/thumbnail.jpg"
+        "https://dummyjson.com/image/i/products/21/1.jpg",
+        "https://dummyjson.com/image/i/products/21/2.jpg",
+        "https://dummyjson.com/image/i/products/21/3.jpg",
+        "https://dummyjson.com/image/i/products/21/thumbnail.jpg"
       ]
     },
     {
@@ -101,12 +100,12 @@
       "stock": 10,
       "brand": "DJI",
       "category": "drones",
-      "thumbnail": "https://dummyjson.com/image/i/products/17/thumbnail.jpg",
+      "thumbnail": "https://dummyjson.com/image/i/products/22/thumbnail.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/17/1.jpg",
-        "https://dummyjson.com/image/i/products/17/2.jpg",
-        "https://dummyjson.com/image/i/products/17/3.jpg",
-        "https://dummyjson.com/image/i/products/17/thumbnail.jpg"
+        "https://dummyjson.com/image/i/products/22/1.jpg",
+        "https://dummyjson.com/image/i/products/22/2.jpg",
+        "https://dummyjson.com/image/i/products/22/3.jpg",
+        "https://dummyjson.com/image/i/products/22/thumbnail.jpg"
       ]
     },
     {
@@ -119,12 +118,12 @@
       "stock": 50,
       "brand": "Fitbit",
       "category": "wearables",
-      "thumbnail": "https://dummyjson.com/image/i/products/18/thumbnail.jpg",
+      "thumbnail": "https://dummyjson.com/image/i/products/23/thumbnail.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/18/1.jpg",
-        "https://dummyjson.com/image/i/products/18/2.jpg",
-        "https://dummyjson.com/image/i/products/18/3.jpg",
-        "https://dummyjson.com/image/i/products/18/thumbnail.jpg"
+        "https://dummyjson.com/image/i/products/23/1.jpg",
+        "https://dummyjson.com/image/i/products/23/2.jpg",
+        "https://dummyjson.com/image/i/products/23/3.jpg",
+        "https://dummyjson.com/image/i/products/23/thumbnail.jpg"
       ]
     },
     {
@@ -137,12 +136,12 @@
       "stock": 15,
       "brand": "Samsung",
       "category": "televisions",
-      "thumbnail": "https://dummyjson.com/image/i/products/19/thumbnail.jpg",
+      "thumbnail": "https://dummyjson.com/image/i/products/24/thumbnail.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/19/1.jpg",
-        "https://dummyjson.com/image/i/products/19/2.jpg",
-        "https://dummyjson.com/image/i/products/19/3.jpg",
-        "https://dummyjson.com/image/i/products/19/thumbnail.jpg"
+        "https://dummyjson.com/image/i/products/24/1.jpg",
+        "https://dummyjson.com/image/i/products/24/2.jpg",
+        "https://dummyjson.com/image/i/products/24/3.jpg",
+        "https://dummyjson.com/image/i/products/24/thumbnail.jpg"
       ]
     },
     {
@@ -155,12 +154,12 @@
       "stock": 30,
       "brand": "Canon",
       "category": "cameras",
-      "thumbnail": "https://dummyjson.com/image/i/products/20/thumbnail.jpg",
+      "thumbnail": "https://dummyjson.com/image/i/products/25/thumbnail.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/20/1.jpg",
-        "https://dummyjson.com/image/i/products/20/2.jpg",
-        "https://dummyjson.com/image/i/products/20/3.jpg",
-        "https://dummyjson.com/image/i/products/20/thumbnail.jpg"
+        "https://dummyjson.com/image/i/products/25/1.jpg",
+        "https://dummyjson.com/image/i/products/25/2.jpg",
+        "https://dummyjson.com/image/i/products/25/3.jpg",
+        "https://dummyjson.com/image/i/products/25/thumbnail.jpg"
       ]
     }
   ]
