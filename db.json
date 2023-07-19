@@ -73,24 +73,6 @@
       ]
     },
     {
-      "id": 5,
-      "title": "Dall",
-      "description": "Food grocery dall used to prepare many dishes.",
-      "price": 49,
-      "discountPercentage": 10,
-      "rating": 4.8,
-      "stock": 20,
-      "brand": "Sony",
-      "category": "headphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/21/thumbnail.jpg",
-      "images": [       
-        "https://dummyjson.com/image/i/products/21/3.jpg",
-         "https://dummyjson.com/image/i/products/21/1.jpg",
-        "https://dummyjson.com/image/i/products/21/2.jpg",
-        "https://dummyjson.com/image/i/products/21/thumbnail.jpg"
-      ]
-    },
-    {
       "id": 6,
       "title": "Italiyan Pasta",
       "description": "Capture stunning aerial food with the delicious pasta.",
